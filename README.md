@@ -16,3 +16,6 @@ towards the template repository.
 - [mains](mains)
 - [sides](sides)
 - [desserts](desserts)
+
+[!NOTE]
+Highlights information that users should take into account, even when skimming.
