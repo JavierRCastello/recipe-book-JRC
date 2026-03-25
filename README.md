@@ -25,3 +25,5 @@ towards the template repository.
 
 > [!WARNING]
 > Critical content demanding immediate user attention due to potential risks.
+>
+![please replace with alt text](https://img.shields.io/badge/anytext-youlike-blue)
